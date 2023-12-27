@@ -1,0 +1,6 @@
+package com.personel.personel
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
